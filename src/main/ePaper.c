@@ -40,7 +40,7 @@
 #include "img1.h"
 #include "img2.h"
 #include "img3.h"
-#include "img_hacking.c"
+#include "img_hacking.h"
 #include "EPD.h"
 //#include "EPDspi.h"
 
