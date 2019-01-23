@@ -3,6 +3,7 @@
 
 ---
 
+***Code structure modified to be compiled on PlatformIO***
 
 #### Features
 
